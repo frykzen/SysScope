@@ -3,9 +3,11 @@
 Python backend + React frontend. No tkinter. No build tools.
 
 ## Setup
-
+install python with path
 ```
 pip install flask psutil groq
+cd Desktop
+cd Novapulse2.0-main
 python server.py
 ```
 
