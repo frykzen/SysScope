@@ -7,7 +7,7 @@ install python with path
 ```
 pip install flask psutil groq
 cd Desktop
-cd SysScope2.0-main
+cd SysScope-main
 python server.py
 ```
 
