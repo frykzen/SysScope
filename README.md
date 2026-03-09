@@ -1,6 +1,6 @@
-# ◈ NovaPulse 2.0 — PC Performance Suite
+# NovaPulse 2.0 — PC Performance Suite
 
-Python backend + React frontend. No tkinter. No build tools.
+Python backend + React frontend. 
 
 ## Setup
 install python with path
